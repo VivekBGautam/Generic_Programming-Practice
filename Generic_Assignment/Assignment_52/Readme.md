@@ -6,7 +6,7 @@ This repository contains **generic (template-based) C++ programs** demonstrating
 
 ## Structure
   
-```
+``` 
 Assignment_52/
 │
 ├── program52_1.cpp   // Generic program to multiply two numbers
