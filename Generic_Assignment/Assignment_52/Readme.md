@@ -49,7 +49,7 @@ This program accepts an array of N elements and calculates the summation of all 
 
 ---
 
-### ✅ Q4. Generic Program to Accept N Values and Return the Largest Value
+### Q4. Generic Program to Accept N Values and Return the Largest Value
 
 **File Name:** `program52_4.cpp`
 
