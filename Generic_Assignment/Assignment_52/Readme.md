@@ -58,7 +58,7 @@ This program demonstrates how to find the largest element from an array of N val
 
 ---
 
-### ✅ Q5. Generic Program to Accept N Values and Return the Minimum Value
+### Q5. Generic Program to Accept N Values and Return the Minimum Value
 
 **File Name:** `program52_5.cpp`
 
