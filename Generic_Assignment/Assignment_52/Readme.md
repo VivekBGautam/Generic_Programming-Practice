@@ -20,9 +20,9 @@ Assignment_52/
 
 ---
 
-## 📘 Question-wise Details
+## Question-wise Details
 
-### ✅ Q1. Generic Program to Multiply Two Numbers
+### Q1. Generic Program to Multiply Two Numbers
 
 **File Name:** `program52_1.cpp`
 
@@ -31,7 +31,7 @@ This program demonstrates the use of C++ templates to multiply two numbers. The 
 
 ---
 
-### ✅ Q2. Generic Program to Find the Largest of Three Numbers
+### Q2. Generic Program to Find the Largest of Three Numbers
 
 **File Name:** `program52_2.cpp`
 
@@ -40,7 +40,7 @@ This program uses a generic function to compare three values and return the larg
 
 ---
 
-### ✅ Q3. Generic Program to Accept N Values and Return Their Addition
+### Q3. Generic Program to Accept N Values and Return Their Addition
 
 **File Name:** `program52_3.cpp`
 
