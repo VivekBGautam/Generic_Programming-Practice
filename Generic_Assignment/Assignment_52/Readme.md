@@ -4,7 +4,7 @@ This repository contains **generic (template-based) C++ programs** demonstrating
  
 --- 
  
-## Structure
+## Structure 
  
 ``` 
 Assignment_52/
