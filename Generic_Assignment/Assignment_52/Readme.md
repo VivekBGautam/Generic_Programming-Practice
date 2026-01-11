@@ -2,7 +2,7 @@
 
 This repository contains **generic (template-based) C++ programs** demonstrating basic problem-solving using templates. Each program is written in a separate file as per the question number.
  
---- 
+---
 
 ## Structure
  
