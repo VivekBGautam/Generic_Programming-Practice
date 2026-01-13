@@ -46,7 +46,7 @@ a new value.
 ---
 
 ## File Structure
-
+```
 Generic_Array_Programs/
 │
 ├── program53_1.cpp             // Copy one array into another
@@ -56,7 +56,7 @@ Generic_Array_Programs/
 ├── program53_5.cpp             // Replace all occurrences of a value
 │
 └── README.md
-
+```
 
 ---
 
