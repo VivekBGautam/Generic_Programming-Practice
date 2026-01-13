@@ -62,7 +62,7 @@ Generic_Array_Programs/
 
 ## How to Compile and Run
 ```bash
-g++ Filename.cpp
+g++ Filename.cpp -o Myexe
 ./a.out
 (Use the same command for other program files by changing the file name)
 ```
