@@ -62,7 +62,7 @@ Generic_Array_Programs/
 
 ## How to Compile and Run
 ```bash
-g++ program53_1.cpp
+g++ Filename.cpp
 ./a.out
 (Use the same command for other program files by changing the file name)
 ```
