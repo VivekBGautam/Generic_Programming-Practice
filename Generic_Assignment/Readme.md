@@ -1,13 +1,11 @@
-# Generic Asignment
 
-This repository contains a collection of C++ generic (template-based) programs designed to demonstrate reusable, type-independent solutions for common programming problems. The assignments focus on understanding templates, logic building, and efficient code design using generic programming concepts.
+# Generic Programming Assignments (C++)
 
-Generic Programming Assignments (C++)
-📌 Overview
+## 📌 Overview
 
 This repository contains a curated set of generic programming assignments implemented in C++ using templates. The objective of these assignments is to demonstrate type-independent, reusable, and efficient programming techniques, which are essential for writing scalable and maintainable software.
 
-🎯 Objectives
+### 🎯 Objectives
 
 Understand and apply C++ templates
 
@@ -17,7 +15,7 @@ Strengthen problem-solving and logic-building skills
 
 Learn industry-relevant generic programming practices
 
-🛠️ Technologies Used
+### 🛠️ Technologies Used
 
 Language: C++
 
@@ -31,7 +29,7 @@ Compile-time Polymorphism
 
 Standard I/O
 
-📂 Project Structure
+### 📂 Project Structure
 Generic_Assignments/
 │
 ├── All ASiignment
@@ -40,7 +38,7 @@ Generic_Assignments/
 
 Each source file represents an independent generic assignment demonstrating a specific programming concept.
 
-🧠 Assignment Highlights
+### 🧠 Assignment Highlights
 
 Generic multiplication of numbers
 
@@ -52,14 +50,14 @@ Type-independent logic implementation
 
 Clean, readable, and reusable code structure
 
-▶️ How to Compile and Run
+### ▶️ How to Compile and Run
 
 Use any standard C++ compiler such as g++.
 
 g++ program53_1.cpp -o output
 ./output
 
-📈 Learning Outcomes
+### 📈 Learning Outcomes
 
 After completing these assignments, you will be able to:
 
@@ -71,7 +69,7 @@ Write clean and maintainable generic logic
 
 Apply theoretical concepts in practical programs
 
-🚀 Future Enhancements
+### 🚀 Future Enhancements
 
 Add generic data structures (Stack, Queue, Linked List)
 
@@ -81,9 +79,10 @@ Include test cases
 
 Improve documentation with examples
 
-👤 Author
+## 👤 Author
 
-Vivek Bhauraj Gautam
+### Vivek Bhauraj Gautam
+
 📧 Email: vivekbgautam@gmail.com
 
 🔗 GitHub: https://github.com/vivekbgautam
